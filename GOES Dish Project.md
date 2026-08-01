@@ -33,4 +33,7 @@ Possibly not needed. Dish size was 29" in the Yagi Video below
 
 - [Arduino Solar Tracker via DiSEqC repo](https://github.com/acrerd/Arduino-Diseqc-solar-tracker)
 
+## Electronics
+- [Op-Amp Power Supply](https://www.jameco.com/z/PD-2515-MEAN-WELL-Power-Supply-Dual-Output-Open-Frame-15V-1A-Negative-15V-1A-24W_2100857.html)
 
+- [Motor Power Supply?](https://www.jameco.com/z/NGE18U18-P1J-MEAN-WELL-Wall-Mount-Green-Adapter-18VDC-1A-18W-2-1mm-Plug-with-Foldable-NEMA-1-15P_2400967.html)
