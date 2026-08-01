@@ -26,3 +26,7 @@ Possibly not needed. Dish size was 29" in the Yagi Video below
 ## [SAWbird](https://www.amazon.com/dp/B07K1M39H4?linkCode=ssc&tag=onamzgabeemer-20&creativeASIN=B07K1M39H4&asc_item-id=amzn1.ideas.155I0QIXWTB54) 
 
 # Satellite Location & Tuning
+
+# DiSEqC
+
+- [Arduino Solar Tracker via DiSEqC repo](https://github.com/acrerd/Arduino-Diseqc-solar-tracker)
