@@ -2,7 +2,7 @@
 
 # Satellite Data & Format
 
-![[Pasted image 20260801045852.png]]
+![Pasted image 20260801045852.png](<Resources/Pasted image 20260801045852.png>)
 # Dish Extension
 Possibly not needed. Dish size was 29" in the Yagi Video below
 
@@ -14,9 +14,9 @@ Possibly not needed. Dish size was 29" in the Yagi Video below
 - Coaxial Cable
 - Weather-proof enclosure (when installed)
 [YT Video Source](https://youtu.be/0O6tscHo6G4?t=470)
-![[Pasted image 20260801052014.png]]
+![Pasted image 20260801052014.png](<Resources/Pasted image 20260801052014.png>)
 ## Middle Dipole (Driven Element)
-![[Pasted image 20260801053429.png]]
+![Pasted image 20260801053429.png](<Resources/Pasted image 20260801053429.png>)
 - Gap in the dipole antenna should not be greater than the insulator thickness
 # Signal Processing & Software-Defined Radio
 
