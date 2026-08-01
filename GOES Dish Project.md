@@ -1,5 +1,7 @@
 # [GOES Guide](https://www.rtl-sdr.com/rtl-sdr-com-goes-16-17-and-gk-2a-weather-satellite-reception-comprehensive-tutorial/)
 
+- [Thought Emporium project video](https://www.youtube.com/watch?v=jGWFg7EDnyY)
+
 # Satellite Data & Format
 
 ![[Pasted image 20260801045852.png]]
