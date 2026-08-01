@@ -37,3 +37,5 @@ Possibly not needed. Dish size was 29" in the Yagi Video below
 - [Op-Amp Power Supply](https://www.jameco.com/z/PD-2515-MEAN-WELL-Power-Supply-Dual-Output-Open-Frame-15V-1A-Negative-15V-1A-24W_2100857.html)
 
 - [Motor Power Supply?](https://www.jameco.com/z/NGE18U18-P1J-MEAN-WELL-Wall-Mount-Green-Adapter-18VDC-1A-18W-2-1mm-Plug-with-Foldable-NEMA-1-15P_2400967.html)
+
+- [RTL-SDR & SDF++, Advice](https://www.reddit.com/r/RTLSDR/comments/1qs1xr5/whats_the_easiest_way_to_get_an_rtl_sdr_v4_up_in/)
